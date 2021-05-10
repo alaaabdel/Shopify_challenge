@@ -1,5 +1,5 @@
 # Shopify_challenge
-This challenge consists of two main question. 
+This challenge consists of two main questions. 
 
 First Question: Reassess metric to calculate average order value (AOV) from shopify dataset which is found in the challenge_dataset.csv
 
