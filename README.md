@@ -1,7 +1,7 @@
 # Shopify_challenge
 This challenge consists of two main question. 
-First Question: Reassess metric to calculate average order value (AOV) from shopify dataset which is found in the challenge_dataset.csv\n
-                Full analysis in Python, check shopify_challenge.ipynb
+First Question: Reassess metric to calculate average order value (AOV) from shopify dataset which is found in the challenge_dataset.csv
+Full analysis in Python, check shopify_challenge.ipynb
                 
                 
                 
