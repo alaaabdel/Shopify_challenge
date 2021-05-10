@@ -1,2 +1,5 @@
-*./png
-.*csv
+*.png
+.*csv*.jpg
+*.jpeg
+*.png
+*.gif
